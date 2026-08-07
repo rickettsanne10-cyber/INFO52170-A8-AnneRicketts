@@ -1,0 +1,7 @@
+US11 - Integrate calories and workouts into dashboard
+
+Combines calorie tracking and workout information into the main dashboard.
+
+Story Points: 5
+Priority: Medium
+Sprint: Sprint 2
