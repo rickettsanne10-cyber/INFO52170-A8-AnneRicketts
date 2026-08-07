@@ -1,0 +1,7 @@
+US06 - Add exercise instructions
+
+Provides instructions explaining how users should perform exercises correctly and safely.
+
+Story Points: 5
+Priority: High
+Sprint: Sprint 1
