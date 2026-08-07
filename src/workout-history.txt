@@ -1,0 +1,7 @@
+US10 - View workout history
+
+Allows users to view previously completed workout activities.
+
+Story Points: 5
+Priority: Medium
+Sprint: Sprint 2
