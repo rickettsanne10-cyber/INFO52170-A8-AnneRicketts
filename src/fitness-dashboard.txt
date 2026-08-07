@@ -1,0 +1,6 @@
+US01 - Create fitness dashboard
+
+This feature provides the main dashboard interface for tracking fitness activities.
+Story Points: 3
+Priority: High
+Sprint: Sprint 1
