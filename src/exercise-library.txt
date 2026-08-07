@@ -1,0 +1,7 @@
+US05 - Create exercise library
+
+Provides a collection of exercises available for users.
+
+Story Points: 3
+Priority: High
+Sprint: Sprint 1
