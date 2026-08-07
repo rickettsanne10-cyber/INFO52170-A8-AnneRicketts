@@ -1,0 +1,7 @@
+US04 - Display daily calorie total
+
+Displays the user's total daily calorie consumption.
+
+Story Points: 3
+Priority: High
+Sprint: Sprint 1
