@@ -1,0 +1,7 @@
+US02 - Add food calorie search
+
+Allows users to search food items and view calorie information.
+
+Story Points: 5
+Priority: High
+Sprint: Sprint 1
