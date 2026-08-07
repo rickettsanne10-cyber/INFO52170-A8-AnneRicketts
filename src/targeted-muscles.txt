@@ -1,0 +1,7 @@
+US07 - Display targeted muscles
+
+Displays the specific muscle groups targeted by each exercise.
+
+Story Points: 3
+Priority: Medium
+Sprint: Sprint 2
