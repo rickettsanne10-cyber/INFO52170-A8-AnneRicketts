@@ -1,0 +1,7 @@
+US12 - Add exercise form and safety guidelines
+
+Provides exercise form guidance and safety recommendations for users.
+
+Story Points: 3
+Priority: Medium
+Sprint: Sprint 2
