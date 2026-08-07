@@ -1,0 +1,7 @@
+US03 - Track food intake
+
+Allows users to record daily food consumption and maintain food intake records.
+
+Story Points: 5
+Priority: High
+Sprint: Sprint 1
