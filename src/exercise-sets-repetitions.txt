@@ -1,0 +1,7 @@
+US08 - Track exercise sets and repetitions
+
+Allows users to record workout sets and repetitions completed during exercises.
+
+Story Points: 5
+Priority: High
+Sprint: Sprint 2
