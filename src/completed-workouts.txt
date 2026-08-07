@@ -1,0 +1,7 @@
+US09 - Save completed workouts
+
+Allows users to save completed workout sessions for future reference.
+
+Story Points: 5
+Priority: High
+Sprint: Sprint 2
